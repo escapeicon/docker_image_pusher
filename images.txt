@@ -35,3 +35,10 @@ redis:7.2.9
 # wordpress
 wordpress:6.8.1-php8.1-apache
 wordpress:6.8.1-php8.3-apache
+
+# Centos
+centos:7
+
+# Rockylinux
+rockylinux:8
+rockylinux:9
