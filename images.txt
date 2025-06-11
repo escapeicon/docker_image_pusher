@@ -6,13 +6,32 @@ xhofe/alist:latest
 jenkins/jenkins
 minio/minio
 nacos/nacos-server
-# C1 课程镜像源
+
+# Nginx
 nginx
 nginx:1.27.5
 nginx:1.25.1
 nginx:1.21.5
 nginx:1.18
+
+# BusyBOX
 busybox
+busybox:1.36.1
+busybox:1.37.0
+
+# MySQL
 mysql:5.7.43
 mysql:8.1.0
+
+# Httpd
 httpd:2.4.62
+httpd
+
+# Redis
+redis
+redis:8.0.2-alpine
+redis:7.2.9
+
+# wordpress
+wordpress:6.8.1-php8.1-apache
+wordpress:6.8.1-php8.3-apache
