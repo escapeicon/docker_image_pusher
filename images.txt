@@ -42,3 +42,7 @@ centos:7
 # Rockylinux
 rockylinux:8
 rockylinux:9
+
+# mariadb
+mariadb:11.4.7
+mariadb:10.6.15
