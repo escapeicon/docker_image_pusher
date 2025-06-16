@@ -45,5 +45,6 @@ rockylinux:8
 rockylinux:9
 
 # mariadb
+bitnami/mariadb:10.3.22-debian-10-r27
 mariadb:11.4.7
 mariadb:10.6.15
