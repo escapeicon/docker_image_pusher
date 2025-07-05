@@ -12,6 +12,7 @@ nginx
 nginx:1.27.5
 nginx:1.25.1
 nginx:1.21.5
+nginx:1.20
 nginx:1.18
 
 # BusyBOX
