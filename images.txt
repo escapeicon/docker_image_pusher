@@ -73,3 +73,10 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 # jimmidyson/configmap-reload
 jimmidyson/configmap-reload:v0.5.0
+
+# K8s - Calico
+calico/cni:master
+calico/cni:master
+calico/node:master
+calico/node:master
+calico/kube-controllers:master
