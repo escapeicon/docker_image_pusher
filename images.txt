@@ -1,9 +1,2 @@
-
-# K8s - Calico
-calico/cni:v3.24.5
-calico/cni:v3.24.5
-calico/node:v3.24.5
-calico/node:v3.24.5
-calico/kube-controllers:v3.24.5
-calico/typha:v3.24.5
-
+kubernetesui/dashboard:v2.6.1
+kubernetesui/metrics-scraper:v1.0.8
