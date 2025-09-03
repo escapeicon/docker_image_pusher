@@ -1,0 +1,75 @@
+xhofe/alist:latest
+#支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
+jenkins/jenkins
+minio/minio
+nacos/nacos-server
+
+# Nginx
+nginx
+nginx:1.27.5
+nginx:1.25.1
+nginx:1.21.5
+nginx:1.20
+nginx:1.18
+
+# BusyBOX
+busybox
+busybox:1.36.1
+busybox:1.37.0
+
+# MySQL
+mysql:5.7.43
+mysql:8.1.0
+
+# Httpd
+httpd:2.4.62
+httpd
+
+# Redis
+redis
+redis:8.0.2-alpine
+redis:7.2.9
+
+# wordpress
+bitnami/wordpress:5.3.2-debian-10-r32
+bitnami/wordpress:5.8.1-debian-10-r0
+wordpress:6.8.1-php8.1-apache
+wordpress:6.8.1-php8.3-apache
+
+# Centos
+centos:7
+
+# Rockylinux
+rockylinux:8
+rockylinux:9
+
+# mariadb
+bitnami/mariadb:10.3.22-debian-10-r27
+bitnami/mariadb:10.5.12-debian-10-r0
+mariadb:11.4.7
+mariadb:10.6.15
+
+# bitnami/metrics-server
+bitnami/metrics-server:0.7.2-debian-12-r28
+
+# prometheus-adapter
+v5cn/prometheus-adapter:v0.12.0
+v5cn/prometheus-adapter:v0.11.1
+v5cn/prometheus-adapter:v0.10.1
+v5cn/prometheus-adapter:v0.9.1
+
+# bitnami/blackbox-exporter
+bitnami/blackbox-exporter:0.22.0
+bitnami/blackbox-exporter:0.23.0
+bitnami/blackbox-exporter:0.24.0
+
+# grafana
+grafana/grafana:9.3.16
+
+# bitnami/kube-state-metrics
+bitnami/kube-state-metrics:2.7.0
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+
+# jimmidyson/configmap-reload
+jimmidyson/configmap-reload:v0.5.0
